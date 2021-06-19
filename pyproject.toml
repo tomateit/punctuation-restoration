@@ -14,6 +14,11 @@ numpy = "^1.20.3"
 torch = "^1.8.1"
 pyarrow = "^4.0.0"
 matplotlib = "^3.4.2"
+pymorphy2 = "^0.9.1"
+pytorch-pretrained-bert = "^0.6.2"
+torchtext = "^0.9.1"
+transformers = "^4.6.1"
+ipywidgets = "^7.6.3"
 
 [tool.poetry.dev-dependencies]
 
