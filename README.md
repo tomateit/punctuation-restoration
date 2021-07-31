@@ -8,4 +8,4 @@ Refer to notebooks folder to see my pity attempts :)
 - `notebooks/2-lstm_bidirectional` - same, as above, but bidirectional, so handles come cases much better.
 - `notebooks/3-third-party` directly utilized code from https://github.com/vlomme/Bert-Russian-punctuation
 
-If my research will be successful, I will do a library. The code in this repo is not intended for outside usage as third-party code. Link to the lib will be posted as soon, as it will be ready.
+The code in this repo is not intended for outside usage as third-party code. 
